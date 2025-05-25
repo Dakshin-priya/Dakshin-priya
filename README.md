@@ -16,16 +16,17 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,java,html,css,js" />
 </p>
 
-<h2 align="center">📈 GitHub Stats</h2>
+<h2 align="center">📈 My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dakshin-priya&show_icons=true&theme=tokyonight&border_radius=10" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dakshin-priya&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dakshin-priya&show_icons=true&count_private=true&title_color=FF6EC7&icon_color=00FFE5&text_color=D3D3D3&bg_color=0D1117&border_radius=10&border_color=F9826C" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dakshin-priya&theme=github-dark-blue&background=00000000&ring=00F5FF&fire=FF6EC7&currStreakLabel=FF6EC7&sideNums=00FFE5&dates=AAAAAA" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshin-priya&layout=compact&theme=tokyonight&langs_count=6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshin-priya&layout=compact&theme=gradient&bg_color=0D1117&text_color=FFFFFF&title_color=FF6EC7&langs_count=6&hide_border=true" width="48%" />
 </p>
+
 
 <h2 align="center">🌐 Connect with Me</h2>
 
