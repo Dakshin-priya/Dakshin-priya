@@ -1,6 +1,6 @@
 <!-- Header Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Dakshin+Priya+T+S!;Full+Stack+Developer+from+India;React+%7C+MongoDB+%7C+Node.js+%7C+Java" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Dakshin+Priya+T+S!;React+%7C+MongoDB+%7C+Node.js+%7C+Java" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👩‍💻 Welcome to My GitHub Profile!</h1>
